@@ -13,6 +13,7 @@ function Car(make, model, year) {
     this.year = year;
 }
 
+//Then use the constructor to make a car
 var mycar1 = new Car('Eagle', 'Talon TSi', 1993);
 
 // console.log(myCar.year);
